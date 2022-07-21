@@ -1,0 +1,13 @@
+package org.podpivas.model;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class TestModel {
+
+    @JsonProperty("test")
+    private String t;
+}

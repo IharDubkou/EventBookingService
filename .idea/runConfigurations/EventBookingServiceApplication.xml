@@ -7,12 +7,6 @@
     </selectedOptions>
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.podpivas.EventBookingServiceApplication" />
     <option name="VM_PARAMETERS" value="-Dlogging.level.org.podpivas=DEBUG" />
-    <extension name="coverage">
-      <pattern>
-        <option name="PATTERN" value="org.podpivas.*" />
-        <option name="ENABLED" value="true" />
-      </pattern>
-    </extension>
     <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
       <option name="credential" />
       <option name="region" />

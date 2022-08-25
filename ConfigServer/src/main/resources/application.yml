@@ -1,7 +1,0 @@
-server:
-  port: 8889
-spring:
-  application:
-    name: configserver
-  profiles:
-    active: native

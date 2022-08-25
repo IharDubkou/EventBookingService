@@ -20,6 +20,7 @@ public class EventBookingServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EventBookingServiceApplication.class, args);
+
     }
 
 }
